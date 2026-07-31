@@ -6,7 +6,7 @@ Soy Técnico Profesional en Desarrollo de Software, con experiencia de 5 años e
 
 ```
 - 🔭 Estoy en busqueda de oportunidad laboral
-- 🌱 Estoy aprendiendo Golang y Node JS
+- 🌱 Estoy aprendiendo Golang
 ```
 <!--
 - 👯 I’m looking to collaborate on ...
